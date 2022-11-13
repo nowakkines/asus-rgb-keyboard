@@ -6,40 +6,37 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>506</width>
-    <height>890</height>
+    <width>505</width>
+    <height>857</height>
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Asus ROG-STRIX</string>
+   <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QLabel" name="label">
-    <property name="enabled">
-     <bool>true</bool>
-    </property>
     <property name="geometry">
      <rect>
-      <x>-30</x>
-      <y>-20</y>
-      <width>671</width>
-      <height>951</height>
+      <x>0</x>
+      <y>0</y>
+      <width>561</width>
+      <height>1011</height>
      </rect>
     </property>
     <property name="text">
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../../../Downloads/New Project.jpg</pixmap>
+     <pixmap>../../../../New Project.jpg</pixmap>
     </property>
    </widget>
    <widget class="QSlider" name="horizontalSlider">
     <property name="geometry">
      <rect>
       <x>30</x>
-      <y>260</y>
-      <width>451</width>
-      <height>81</height>
+      <y>420</y>
+      <width>441</width>
+      <height>51</height>
      </rect>
     </property>
     <property name="orientation">
@@ -49,79 +46,79 @@
    <widget class="QPushButton" name="pushButton">
     <property name="geometry">
      <rect>
-      <x>30</x>
-      <y>350</y>
-      <width>131</width>
+      <x>20</x>
+      <y>560</y>
+      <width>141</width>
       <height>61</height>
      </rect>
     </property>
     <property name="text">
-     <string>PushButton</string>
+     <string>SINGLE STATIC</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_2">
     <property name="geometry">
      <rect>
       <x>180</x>
-      <y>350</y>
+      <y>560</y>
       <width>141</width>
       <height>61</height>
      </rect>
     </property>
     <property name="text">
-     <string>PushButton</string>
+     <string>SINGLE BREATHING</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_3">
     <property name="geometry">
      <rect>
       <x>340</x>
-      <y>350</y>
+      <y>560</y>
       <width>141</width>
       <height>61</height>
      </rect>
     </property>
     <property name="text">
-     <string>PushButton</string>
+     <string>RAINBOW</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_4">
     <property name="geometry">
      <rect>
-      <x>30</x>
-      <y>430</y>
-      <width>131</width>
+      <x>180</x>
+      <y>650</y>
+      <width>141</width>
       <height>61</height>
      </rect>
     </property>
     <property name="text">
-     <string>PushButton</string>
+     <string>MUTI BREATHING</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_5">
     <property name="geometry">
      <rect>
-      <x>180</x>
-      <y>430</y>
+      <x>340</x>
+      <y>650</y>
       <width>141</width>
       <height>61</height>
      </rect>
     </property>
     <property name="text">
-     <string>PushButton</string>
+     <string>RAIBOW CYCLE</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_6">
     <property name="geometry">
      <rect>
-      <x>340</x>
-      <y>430</y>
+      <x>20</x>
+      <y>650</y>
       <width>141</width>
       <height>61</height>
      </rect>
     </property>
     <property name="text">
-     <string>PushButton</string>
+     <string>MULTI STATIC</string>
     </property>
    </widget>
   </widget>
